@@ -1,0 +1,14 @@
+{
+  "name": "rest-urlbuilder",
+  "version": "1.0.0",
+  "description": "Restful Api",
+  "main": "src/urlbuilder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "urijs": "^1.18.0"
+  }
+}
